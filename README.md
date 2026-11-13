@@ -4,8 +4,7 @@ I am a Computer Science student at the University of Michigan with a passion for
 
 ## 🛠️ Tech Stack & Tools
 * **Languages:** Python, JavaScript, Java, C, SQL, HTML, CSS
-* **Frameworks & Libraries:** React, Next.js, Vite, Tailwind CSS, FastAPI, Flask, tRPC, Prisma
-* **Testing:** Playwright
+* **Frameworks & Libraries:** React, Next.js, Vite, Tailwind CSS, Flask, tRPC, Prisma
 * **Certifications:** Harvard CS50x, Harvard CS50AI, Harvard CS50s Professional Certificate in Computer Science for AI
 
 ## 🚀 Featured Experience & Projects
