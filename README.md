@@ -9,10 +9,10 @@ I am a Computer Science student at the University of Michigan with a passion for
 * **Certifications:** Harvard CS50x, Harvard CS50AI, Harvard CS50s Professional Certificate in Computer Science for AI
 
 ## 🚀 Featured Experience & Projects
-* **Developer | HedgeCast** (MHacks 2026, October 2026)
-  Built a sandbox demo of a full-stack app where a small business picks a risk in plain English, buys cover priced off live Kalshi markets, and gets an automatic payout at settlement. React, TypeScript, Vite, and Tailwind with FastAPI, Python, and SQLite. [GitHub](https://github.com/avigoldschmidt/hedgeCast) and [Devpost](https://devpost.com/software/hedgecast)
+* **Developer | HedgeCast**
+  Built a sandbox demo at MHacks in October 2026 where a small business picks a risk in plain English, buys cover priced off live Kalshi markets, and gets an automatic payout at settlement. Used React, TypeScript, Vite, Tailwind CSS, FastAPI, Python, and SQLite. GitHub: [github.com/avigoldschmidt/hedgeCast](https://github.com/avigoldschmidt/hedgeCast). Devpost: [devpost.com/software/hedgecast](https://devpost.com/software/hedgecast).
 * **Founding Member | Michigan Electronic Trading**
-  Helped found a University of Michigan quantitative trading organization (October 2026 to present).
+  Helped found a University of Michigan quantitative trading organization, October 2026 to present.
 * **Software Engineer | status70**
   Built a full-stack pharmacy onboarding platform for a three-person team. Translated Figma designs into responsive code and engineered core onboarding workflows. Managed full-stack integrations from the ground up.
 * **Co-Developer | AutoMester**
@@ -25,7 +25,7 @@ I am a Computer Science student at the University of Michigan with a passion for
   Established the first coding-focused student community at Woodward Academy. Organized technology workshops and mentored peers on personal coding projects.
 
 ## 🎓 Education
-* **University of Michigan** | Started Fall 2026, on track to graduate May 2029
+* **University of Michigan** | Fall 2026 – Expected May 2029
   Bachelor of Science in Engineering: Computer Science
 
 ## 📫 Let's Connect!
